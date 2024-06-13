@@ -1,0 +1,6 @@
+@TravelXP.Moviles.API_HostAddress = http://localhost:5186
+
+GET {{TravelXP.Moviles.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
